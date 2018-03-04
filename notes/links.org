@@ -1,4 +1,8 @@
-#+TITLE: Bash Links
+#+TITLE: Useful Links
+
+* Overview
+
+This file contains links to various resources I have found useful.
 
 * Links
 
@@ -7,6 +11,10 @@
 + [[http://bash3boilerplate.sh/][BASH3 Boilerplate]] – Template for writing better Bash scripts
 
 + [[http://kvz.io/blog/2013/11/21/bash-best-practices/][Best Practices for Writing Bash Scripts]]
+
+** JavaScript
+
++ [[https://appendto.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/][How Good C# Habits can Encourage Bad JavaScript Habits Part 1]]
 
 ** Shell
 
