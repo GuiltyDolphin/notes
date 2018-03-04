@@ -3,3 +3,7 @@
 *.aux
 *.dvi
 *.log
+
+# Org-to-HTML build files
+
+*.html
