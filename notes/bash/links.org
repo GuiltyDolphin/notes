@@ -2,6 +2,12 @@
 
 * Links
 
+** Bash
+
 + [[http://bash3boilerplate.sh/][BASH3 Boilerplate]] – Template for writing better Bash scripts
 
 + [[http://kvz.io/blog/2013/11/21/bash-best-practices/][Best Practices for Writing Bash Scripts]]
+
+** Shell
+
++ [[https://www.shellscript.sh/][The Shell Scripting Tutorial]]
