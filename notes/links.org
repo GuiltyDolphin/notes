@@ -16,6 +16,8 @@ This file contains links to various resources I have found useful.
 
 + [[https://appendto.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/][How Good C# Habits can Encourage Bad JavaScript Habits Part 1]]
 
++ [[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide][JavaScript Guide]]
+
 ** Shell
 
 + [[https://www.shellscript.sh/][The Shell Scripting Tutorial]]
