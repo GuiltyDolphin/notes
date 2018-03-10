@@ -18,6 +18,10 @@ This file contains links to various resources I have found useful.
 
 + [[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide][JavaScript Guide]]
 
+** Python
+
++ [[https://www.python.org/dev/peps/pep-0008/][PEP 8 -- Style Guide for Python Code]]
+
 ** Shell
 
 + [[https://www.shellscript.sh/][The Shell Scripting Tutorial]]
