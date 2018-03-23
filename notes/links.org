@@ -22,6 +22,8 @@ This file contains links to various resources I have found useful.
 
 + [[http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html][JavaScript Module Pattern: In-Depth]]
 
++ [[http://requirejs.org/][RequireJS]]
+
 + [[http://underscorejs.org/][Underscore.js]]
 
 ** Python
