@@ -35,6 +35,10 @@ This file contains links to various resources I have found useful.
 
 + [[http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html][JavaScript Module Pattern: In-Depth]]
 
+**** Testing
+
++ [[https://open.blogs.nytimes.com/2015/01/15/how-to-unit-test-a-requirejs-application/][How to Unit Test a RequireJS Application]]
+
 ** Python
 
 + [[https://www.python.org/dev/peps/pep-0008/][PEP 8 -- Style Guide for Python Code]]
