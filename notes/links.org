@@ -14,22 +14,26 @@ This file contains links to various resources I have found useful.
 
 ** JavaScript
 
+*** Frameworks, Libraries, and Tools
+
 + [[http://backbonejs.org/][Backbone.js]]
 
 + [[https://github.com/cujojs/curl][curl.js]] - small, fast, extensible module loader that handles AMD,
   CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
-
-+ [[https://appendto.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/][How Good C# Habits can Encourage Bad JavaScript Habits Part 1]]
-
-+ [[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide][JavaScript Guide]]
-
-+ [[http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html][JavaScript Module Pattern: In-Depth]]
 
 + [[https://mochajs.org/][Mocha]] - the fun, simple, flexible JavaScript test framework
 
 + [[http://requirejs.org/][RequireJS]]
 
 + [[http://underscorejs.org/][Underscore.js]]
+
+*** Guides and Q&A
+
++ [[https://appendto.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/][How Good C# Habits can Encourage Bad JavaScript Habits Part 1]]
+
++ [[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide][JavaScript Guide]]
+
++ [[http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html][JavaScript Module Pattern: In-Depth]]
 
 ** Python
 
