@@ -37,6 +37,8 @@ This file contains links to various resources I have found useful.
 
 **** Testing
 
++ [[https://bocoup.com/blog/effective-unit-testing-with-amd][Effective Unit Testing with AMD]]
+
 + [[https://open.blogs.nytimes.com/2015/01/15/how-to-unit-test-a-requirejs-application/][How to Unit Test a RequireJS Application]]
 
 ** Python
