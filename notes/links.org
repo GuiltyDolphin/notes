@@ -18,6 +18,8 @@ This file contains links to various resources I have found useful.
 
 + [[http://backbonejs.org/][Backbone.js]]
 
++ [[http://browserify.org/][Browserify]] - browser-side require() the node.js way
+
 + [[https://github.com/cujojs/curl][curl.js]] - small, fast, extensible module loader that handles AMD,
   CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
 
