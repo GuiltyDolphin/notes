@@ -6,47 +6,4 @@ This file contains links to various resources I have found useful.
 
 * Links
 
-** Bash
-
-+ [[http://bash3boilerplate.sh/][BASH3 Boilerplate]] – Template for writing better Bash scripts
-
-+ [[http://kvz.io/blog/2013/11/21/bash-best-practices/][Best Practices for Writing Bash Scripts]]
-
-** JavaScript
-
-*** Frameworks, Libraries, and Tools
-
-+ [[http://backbonejs.org/][Backbone.js]]
-
-+ [[http://browserify.org/][Browserify]] - browser-side require() the node.js way
-
-+ [[https://github.com/cujojs/curl][curl.js]] - small, fast, extensible module loader that handles AMD,
-  CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
-
-+ [[https://mochajs.org/][Mocha]] - the fun, simple, flexible JavaScript test framework
-
-+ [[http://requirejs.org/][RequireJS]]
-
-+ [[http://underscorejs.org/][Underscore.js]]
-
-*** Guides and Q&A
-
-+ [[https://appendto.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/][How Good C# Habits can Encourage Bad JavaScript Habits Part 1]]
-
-+ [[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide][JavaScript Guide]]
-
-+ [[http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html][JavaScript Module Pattern: In-Depth]]
-
-**** Testing
-
-+ [[https://bocoup.com/blog/effective-unit-testing-with-amd][Effective Unit Testing with AMD]]
-
-+ [[https://open.blogs.nytimes.com/2015/01/15/how-to-unit-test-a-requirejs-application/][How to Unit Test a RequireJS Application]]
-
-** Python
-
-+ [[https://www.python.org/dev/peps/pep-0008/][PEP 8 -- Style Guide for Python Code]]
-
-** Shell
-
-+ [[https://www.shellscript.sh/][The Shell Scripting Tutorial]]
++ [[./links/programming.org][Programming]]
