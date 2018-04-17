@@ -6,6 +6,10 @@
 
 + [[https://keepachangelog.com][Keep a Changelog]]
 
+* Miscellaneous
+
++ [[https://shields.io/][Shields.io]] - Quality metadata badges for open source projects
+
 * Semantic Versioning
 
 + [[https://www.jvandemo.com/a-simple-guide-to-semantic-versioning/][A simple guide to semantic versioning]]
