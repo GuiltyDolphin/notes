@@ -6,4 +6,6 @@ This file contains links to various resources I have found useful.
 
 * Links
 
++ [[./links/development.org][Development]]
+
 + [[./links/programming.org][Programming]]
