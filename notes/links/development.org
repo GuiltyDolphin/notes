@@ -2,4 +2,6 @@
 
 * Change Log
 
++ [[https://www.gnu.org/prep/standards/html_node/Change-Logs.html][GNU Coding Standards: Change Logs]]
+
 + [[https://keepachangelog.com][Keep a Changelog]]
