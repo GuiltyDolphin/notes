@@ -6,6 +6,8 @@ This file contains links to various resources I have found useful.
 
 * Links
 
++ [[file:links/algorithms.org][Algorithms]]
+
 + [[./links/development.org][Development]]
 
 + [[./links/programming.org][Programming]]
