@@ -47,4 +47,6 @@
 
 * LaTeX
 
++ [[http://detexify.kirelabs.org][Detexify]]
+
 + [[https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols][List of LaTeX mathematical symbols]]
