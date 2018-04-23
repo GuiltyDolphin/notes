@@ -37,6 +37,12 @@
 
 + [[https://open.blogs.nytimes.com/2015/01/15/how-to-unit-test-a-requirejs-application/][How to Unit Test a RequireJS Application]]
 
+* LaTeX
+
++ [[http://detexify.kirelabs.org][Detexify]]
+
++ [[https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols][List of LaTeX mathematical symbols]]
+
 * Python
 
 + [[https://www.python.org/dev/peps/pep-0008/][PEP 8 -- Style Guide for Python Code]]
@@ -44,9 +50,3 @@
 * Shell
 
 + [[https://www.shellscript.sh/][The Shell Scripting Tutorial]]
-
-* LaTeX
-
-+ [[http://detexify.kirelabs.org][Detexify]]
-
-+ [[https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols][List of LaTeX mathematical symbols]]
