@@ -44,3 +44,7 @@
 * Shell
 
 + [[https://www.shellscript.sh/][The Shell Scripting Tutorial]]
+
+* LaTeX
+
++ [[https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols][List of LaTeX mathematical symbols]]
