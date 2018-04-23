@@ -6,6 +6,12 @@
 
 + [[https://keepachangelog.com][Keep a Changelog]]
 
+* Licensing
+
++ [[https://www.gnu.org/licenses/gpl-howto.html][How to use GNU licenses for your own software]]
+
++ [[https://www.gnu.org/licenses/license-compatibility.html][License Compatibility and Relicensing]]
+
 * Miscellaneous
 
 + [[https://shields.io/][Shields.io]] - Quality metadata badges for open source projects
