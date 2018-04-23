@@ -23,3 +23,7 @@
 + [[https://semver.org/][Semantic Versioning]]
 
 + [[https://www.sitepoint.com/semantic-versioning-why-you-should-using/][Semantic Versioning: Why You Should Be Using it]]
+
+* Tools
+
++ [[https://magit.vc/][Magit]]
