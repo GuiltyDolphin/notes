@@ -20,9 +20,20 @@
 
 + [[https://www.jvandemo.com/a-simple-guide-to-semantic-versioning/][A simple guide to semantic versioning]]
 
++ [[https://docs.npmjs.com/getting-started/semantic-versioning][How to use Semantic Versioning]] (npm Documentation)
+
++ [[https://semver.npmjs.com/][npm semantic version calculator]]
+
 + [[https://semver.org/][Semantic Versioning]]
 
 + [[https://www.sitepoint.com/semantic-versioning-why-you-should-using/][Semantic Versioning: Why You Should Be Using it]]
+
++ [[https://gist.github.com/jashkenas/cbd2b088e20279ae2c8e][Why Semantic Versioning Isn't]] - interesting post and discussion
+  about the merits and potential issues that arise when using a
+  system like SemVer. Looking through the comments yields some
+  interesting tips, suggestions, and ideas
+
+  + [[https://gist.github.com/jashkenas/cbd2b088e20279ae2c8e#gistcomment-1854604][Comments about long-term support releases]]
 
 * Tools
 
