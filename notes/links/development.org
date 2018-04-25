@@ -26,4 +26,6 @@
 
 * Tools
 
++ [[http://cask.readthedocs.io][Cask]] - Project management tool for Emacs Lisp
+
 + [[https://magit.vc/][Magit]]
