@@ -43,6 +43,10 @@
 
 + [[https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols][List of LaTeX mathematical symbols]]
 
+* Perl
+
++ [[https://perl6.org/][Perl 6 Programming Language]]
+
 * Python
 
 + [[https://www.python.org/dev/peps/pep-0008/][PEP 8 -- Style Guide for Python Code]]
