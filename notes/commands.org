@@ -1,0 +1,15 @@
+#+TITLE: Commands
+
+* Summary
+
+There are many interesting, useful, and instructional
+examples of how various command-line tools can be used;
+scattered across the internet, and sometimes hidden in the
+recesses of long-forgotten, legacy documentation, these
+examples can sometimes be very difficult to uncover.
+
+I hope that with the correct formatting and sourcing,
+this document can provide a structured gateway to these
+examples, sparking a desire to find out more, and to tinker
+with the tools the open-source community has provided over
+the years.
