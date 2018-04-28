@@ -1,0 +1,7 @@
+#+TITLE: Links - Networks
+
+* HTTP
+
++ [[https://developer.mozilla.org/en-US/docs/Web/HTTP/Status][HTTP response status codes]]
+
++ [[https://en.wikipedia.org/wiki/List_of_HTTP_status_codes][List of HTTP status codes]]
