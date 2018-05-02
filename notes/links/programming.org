@@ -23,6 +23,8 @@
 
 + [[https://jquery.com/][jQuery]]
 
+  + [[https://api.jquery.com/][jQuery API Documentation]]
+
 + [[https://mochajs.org/][Mocha]] - the fun, simple, flexible JavaScript test framework
 
 + [[http://requirejs.org/][RequireJS]]
