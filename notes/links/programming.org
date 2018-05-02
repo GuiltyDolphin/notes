@@ -21,6 +21,8 @@
 + [[https://github.com/cujojs/curl][curl.js]] - small, fast, extensible module loader that handles AMD,
   CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
 
++ [[https://jquery.com/][jQuery]]
+
 + [[https://mochajs.org/][Mocha]] - the fun, simple, flexible JavaScript test framework
 
 + [[http://requirejs.org/][RequireJS]]
