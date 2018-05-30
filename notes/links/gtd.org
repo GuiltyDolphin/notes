@@ -1,0 +1,7 @@
+#+TITLE: Links - Getting Things Done
+
+* Org
+
++ [[http://orgmode.org/worg/org-gtd-etc.html][Org for GTD and other Task managment systems]]
+
++ [[https://emacs.cafe/emacs/orgmode/gtd/2017/06/30/orgmode-gtd.html][Orgmode for GTD]] (Nicolas Petton)
