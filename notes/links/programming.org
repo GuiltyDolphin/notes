@@ -56,6 +56,13 @@
 
 + [[https://open.blogs.nytimes.com/2015/01/15/how-to-unit-test-a-requirejs-application/][How to Unit Test a RequireJS Application]]
 
+
+** Style Guides
+
++ [[https://standardjs.com/][JavaScript Standard Style]] - JavaScript style guide, linter, and formatter
+
+  + [[https://github.com/standard/standard][JavaScript Standard Style - GitHub]]
+
 * LaTeX
 
 + [[http://detexify.kirelabs.org][Detexify]]
