@@ -1,0 +1,33 @@
+#+TITLE: Links - Theory
+
+* Automata
+
++ [[http://www.cs.odu.edu/~toida/nerzic/390teched/regular/fa/nfa-2-dfa.html][Conversion of NFA to DFA]]
+
+* AVR
+
++ [[https://github.com/buserror/simavr][simavr]] - a lean, mean and hackable AVR simulator for linux & OSX
+
+* Electronics
+
++ [[http://www.electronics-base.com/useful-info/software-related/90-polling-vs-interrupt][Polling vs. Interrupt]]
+
+* Grammars
+
++ [[http://www.csd.uwo.ca/~moreno/CS447/Lectures/Syntax.html/node14.html][LL(1) Grammars]]
+
+* Operating Systems
+
++ [[http://blog.scoutapp.com/articles/2015/04/10/understanding-page-faults-and-memory-swap-in-outs-when-should-you-worry][Understanding page faults and memory swap-in/outs: when should you worry?]]
+
+* Proofs
+
++ [[http://proofmood.com/index_en.php][Proofmood]] - Online proof assistant
+
+  + Truth tables
+  + Fitch proof system (propositional)
+  + Fitch proof system (first-order)
+
+* Turing Machines
+
++ [[http://morphett.info/turing/turing.html#LoadMenu][Turing machine simulator]]

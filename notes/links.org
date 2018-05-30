@@ -13,3 +13,5 @@ This file contains links to various resources I have found useful.
 + [[file:links/networks.org][Networks]]
 
 + [[file:links/programming.org][Programming]]
+
++ [[file:links/theory.org][Theory]]
