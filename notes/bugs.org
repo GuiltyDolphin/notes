@@ -1,0 +1,18 @@
+#+TITLE: Bugs, Issues, Workarounds, and Solutions
+
+This file lists various bugs encountered, as well as their
+resolutions.
+
+* Emacs
+
+** Org
+
++ When running =org-export-dispatch=
+
+If you get an error similar to:
+
+  : apply: Wrong type argument: listp, #("TITLE" 0 5 (:parent (#0)))
+
+Then try running ~org-reload~.
+
+Source: [[https://emacs.stackexchange.com/questions/14763/exporting-org-file-breaks-when-upgrading-to-orgmode-8-3][Exporting org file breaks when upgrading to orgmode 8.3]] (Emacs StackExchange)
