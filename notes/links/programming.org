@@ -25,19 +25,30 @@
 
   + [[https://api.jquery.com/][jQuery API Documentation]]
 
++ [[https://github.com/sinonjs/lolex][lolex]] - Fake setTimeout and friends (collectively known as "timers").
+  Useful in your JavaScript tests. Extracted from Sinon.JS
+
 + [[https://mochajs.org/][Mocha]] - the fun, simple, flexible JavaScript test framework
 
+  + [[https://github.com/mochajs/mocha/wiki][Mocha - Wiki - Home]]
+
 + [[http://requirejs.org/][RequireJS]]
+
++ [[http://sinonjs.org/][Sinon.JS]] -  Standalone test spies, stubs and mocks for JavaScript.
 
 + [[http://underscorejs.org/][Underscore.js]]
 
 ** Guides and Q&A
+
++ [[https://www.phpied.com/3-ways-to-define-a-javascript-class/][3 ways to define a JavaScript class]]
 
 + [[https://appendto.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/][How Good C# Habits can Encourage Bad JavaScript Habits Part 1]]
 
 + [[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide][JavaScript Guide]]
 
 + [[http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html][JavaScript Module Pattern: In-Depth]]
+
++ [[https://stackoverflow.com/questions/18927298/node-js-project-naming-conventions-for-files-folders][Node.js project naming conventions for files & folders]]
 
 *** Testing
 
