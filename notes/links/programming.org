@@ -38,6 +38,8 @@
 
 + [[http://underscorejs.org/][Underscore.js]]
 
++ [[http://usejsdoc.org/][Use JSDoc]]
+
 ** Guides and Q&A
 
 + [[https://www.phpied.com/3-ways-to-define-a-javascript-class/][3 ways to define a JavaScript class]]
