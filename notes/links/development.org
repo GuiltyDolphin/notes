@@ -71,3 +71,7 @@
 + [[https://github.com/github/gitignore][gitignore]] - A collection of useful =.gitignore= templates
 
 + [[https://magit.vc/][Magit]]
+
+** Static Sites
+
++ [[https://jaspervdj.be/hakyll/][Hakyll]]
