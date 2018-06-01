@@ -1,0 +1,15 @@
+#+TITLE: Changelog
+
+* Unreleased
+
+* 0.3.0 - 2018-06-01
+
+** Added
+
++ Various new links
+
++ File for GTD links
+
++ File for linking to communities
+
++ Subheading for =Tools= in =development.org=
