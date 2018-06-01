@@ -43,6 +43,9 @@
 
 + [[https://github.com/emacs-evil/evil-surround][Evil Surround]] - package that emulates [[https://github.com/tpope/vim-surround][surround.vim]] for Evil
 
++ [[https://emacs-helm.github.io/helm/][Helm]] - Emacs incremental completion and selection narrowing
+  framework
+
 ** Git
 
 + [[https://github.com/github/gitignore][gitignore]] - A collection of useful =.gitignore= templates
