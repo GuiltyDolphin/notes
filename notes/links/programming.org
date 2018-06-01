@@ -48,6 +48,8 @@
 
 + [[http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html][JavaScript Module Pattern: In-Depth]]
 
++ [[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference][Mozilla JavaScript Reference]]
+
 + [[https://stackoverflow.com/questions/18927298/node-js-project-naming-conventions-for-files-folders][Node.js project naming conventions for files & folders]]
 
 *** Testing
