@@ -1,5 +1,15 @@
 #+TITLE: Links - Getting Things Done
 
+* Concept Mapping
+
++ [[https://en.wikipedia.org/wiki/Concept_map][Concept map - Wikipedia]]
+
+** TheBrain
+
++ [[https://www.thebrain.com/blog/][Blog]]
+
++ [[https://thebrain.com/][Homepage]]
+
 * Org
 
 + [[http://orgmode.org/worg/org-gtd-etc.html][Org for GTD and other Task managment systems]]
@@ -14,3 +24,11 @@
   + [[https://f-droid.org/packages/com.orgzly/][Orgzly - F-Droid]]
 
   + [[https://github.com/orgzly][Orgzly - GitHub]]
+
+** org-brain
+
+See also: [[Concept Mapping]]
+
++ [[https://github.com/Kungsgeten/org-brain][GitHub]]
+
++ [[https://www.reddit.com/r/emacs/comments/836o1r/orgbrain_concept_mapping_in_emacs_introduction/][Introductory screencast]]
