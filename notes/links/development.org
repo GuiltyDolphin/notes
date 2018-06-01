@@ -46,6 +46,10 @@
 + [[https://emacs-helm.github.io/helm/][Helm]] - Emacs incremental completion and selection narrowing
   framework
 
++ [[https://jwiegley.github.io/use-package/][use-package]]
+
+  + [[https://github.com/jwiegley/use-package][use-package - GitHub]]
+
 ** Git
 
 + [[https://github.com/github/gitignore][gitignore]] - A collection of useful =.gitignore= templates
