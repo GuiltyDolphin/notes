@@ -91,6 +91,9 @@
 
 * Perl
 
++ [[http://dzil.org/][Dist::Zilla]] - program to make it easier to write, package,
+  manage, and release free software
+
 + [[https://perl6.org/][Perl 6 Programming Language]]
 
 * Python
