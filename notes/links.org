@@ -8,6 +8,8 @@ This file contains links to various resources I have found useful.
 
 + [[file:links/algorithms.org][Algorithms]]
 
++ [[file:links/communities.org][Communities]]
+
 + [[file:links/development.org][Development]]
 
 + [[file:links/gtd.org][Getting Things Done]]

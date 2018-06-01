@@ -1,0 +1,8 @@
+#+TITLE: Links - Communities
+
++ [[https://duckduckgo.com/about][DuckDuckGo]]
+
+  + [[https://duckduckhack.com/][DuckDuckHack]]
+
+    + [[https://github.com/duckduckgo/zeroclickinfo-goodies][ZeroClickInfo Goodies]] - DuckDuckGo Instant Answers based on
+      Perl & JavaScript
