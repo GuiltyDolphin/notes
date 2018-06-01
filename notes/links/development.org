@@ -53,6 +53,13 @@
 
   + [[https://github.com/jwiegley/use-package][use-package - GitHub]]
 
++ [[http://orgmode.org/worg/index.html][Worg]] - a section of the Org-mode web site that is written by a
+  volunteer community of Org-mode fans
+
+  + [[http://orgmode.org/worg/org-tutorials/index.html][Org tutorials]] - Index of various tutorials for org-mode
+
+    + [[http://orgmode.org/worg/org-tutorials/org-custom-agenda-commands.html][Custom Agenda Commands]]
+
 *** Configuration Files
 
 + [[https://github.com/GuiltyDolphin/dotfiles/tree/master/dotfiles/emacs/custom][GuiltyDolphin]]
