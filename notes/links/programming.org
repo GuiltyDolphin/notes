@@ -1,5 +1,15 @@
 #+TITLE: Links - Programming
 
+* Android
+
++ [[https://developer.android.com/guide/components/intents-filters][Intents and Intent Filters]]
+
++ [[https://developer.android.com/guide/components/activities/intro-activities][Introduction to Activities]]
+
++ [[https://android-developers.googleblog.com/2011/06/things-that-cannot-change.html][Things That Cannot Change]] - blog post describing parts of a
+  package that cannot change without creating an entirely new
+  package
+
 * Bash
 
 + [[http://bash3boilerplate.sh/][BASH3 Boilerplate]] – Template for writing better Bash scripts
