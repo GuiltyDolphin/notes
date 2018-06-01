@@ -32,6 +32,10 @@
 
   + [[https://github.com/mochajs/mocha/wiki][Mocha - Wiki - Home]]
 
++ [[https://docs.npmjs.com/][npm Documentation]]
+
+  + [[https://docs.npmjs.com/files/package.json][package.json]] - Specifics of npm's package.json handling
+
 + [[http://requirejs.org/][RequireJS]]
 
 + [[http://sinonjs.org/][Sinon.JS]] -  Standalone test spies, stubs and mocks for JavaScript.
