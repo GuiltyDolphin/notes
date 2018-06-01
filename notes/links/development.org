@@ -37,6 +37,10 @@
 
 * Tools
 
+** Cloud
+
++ [[https://github.com/nextcloud][Nextcloud - GitHub]]
+
 ** Emacs
 
 + [[http://cask.readthedocs.io][Cask]] - Project management tool for Emacs Lisp
