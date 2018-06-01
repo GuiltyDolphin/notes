@@ -50,6 +50,12 @@
 
   + [[https://github.com/jwiegley/use-package][use-package - GitHub]]
 
+*** Configuration Files
+
++ [[https://github.com/GuiltyDolphin/dotfiles/tree/master/dotfiles/emacs/custom][GuiltyDolphin]]
+
++ [[https://github.com/thierryvolpiatto/emacs-tv-config][thierryvolpiatto]]
+
 ** Git
 
 + [[https://github.com/github/gitignore][gitignore]] - A collection of useful =.gitignore= templates
