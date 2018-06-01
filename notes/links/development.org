@@ -68,6 +68,9 @@
 
 ** Git
 
++ [[https://githowto.com/][GitHowTo]] - Guided tour that walks through the fundamentals of
+  Git
+
 + [[https://github.com/github/gitignore][gitignore]] - A collection of useful =.gitignore= templates
 
 + [[https://magit.vc/][Magit]]
