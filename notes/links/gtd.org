@@ -8,6 +8,9 @@
 
 + [[http://www.orgzly.com/][Orgzly]] - Outliner for notes and to-do lists
 
+  + [[http://www.orgzly.com/changelog][Change Log]] - I think this is a really nice example of a
+    changelog
+
   + [[https://f-droid.org/packages/com.orgzly/][Orgzly - F-Droid]]
 
   + [[https://github.com/orgzly][Orgzly - GitHub]]
