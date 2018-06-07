@@ -14,6 +14,12 @@
 
 + [[http://orgmode.org/worg/org-gtd-etc.html][Org for GTD and other Task managment systems]]
 
++ [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]] - Great document
+  by Bernt Hansen in which he outlines and details many features
+  of Org, as well as how he uses them for his personal workflow
+
+  + [[http://doc.norang.ca/org-mode.html#GTD][Section on GTD]]
+
 + [[https://emacs.cafe/emacs/orgmode/gtd/2017/06/30/orgmode-gtd.html][Orgmode for GTD]] (Nicolas Petton)
 
 + [[http://www.orgzly.com/][Orgzly]] - Outliner for notes and to-do lists

@@ -2,6 +2,10 @@
 
 * Unreleased
 
+** Added
+
++ More links for GTD with org
+
 * 0.3.0 - 2018-06-01
 
 ** Added
