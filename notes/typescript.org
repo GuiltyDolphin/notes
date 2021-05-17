@@ -1,0 +1,10 @@
+* Useful resources
+
+- https://basarat.gitbook.io/typescript/
+  - and the [[https://github.com/basarat/typescript-book][GitHub]]
+
+** Style guides
+
+- https://google.github.io/styleguide/tsguide.html
+- https://ts.dev/style/
+- https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md

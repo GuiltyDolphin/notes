@@ -6,6 +6,8 @@
 
 + More links for GTD with org
 
++ TypeScript resources
+
 * 0.3.0 - 2018-06-01
 
 ** Added
