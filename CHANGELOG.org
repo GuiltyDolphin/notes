@@ -4,18 +4,18 @@
 
 ** Added
 
-+ More links for GTD with org
+- More links for GTD with org
 
-+ TypeScript resources
+- TypeScript resources
 
 * 0.3.0 - 2018-06-01
 
 ** Added
 
-+ Various new links
+- Various new links
 
-+ File for GTD links
+- File for GTD links
 
-+ File for linking to communities
+- File for linking to communities
 
-+ Subheading for =Tools= in =development.org=
+- Subheading for =Tools= in =development.org=
